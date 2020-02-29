@@ -1,4 +1,4 @@
-export const agentData = [
+export const agentsData = [
     {agent: '007', country: 'Brazil',
     address: 'Avenida Vieira Souto 168 Ipanema, Rio de Janeiro',
     date: 'Dec 17, 1995, 9:45:17 PM'
