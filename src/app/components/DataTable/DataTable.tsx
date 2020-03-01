@@ -25,7 +25,7 @@ const DataTable = () => {
                                 <Typography use="body2">{mission[`${missionKey}`]}</Typography>
                             </td>
                         ))}
-                    </tr>  
+                    </tr>
                 ))}
                 
                 <tfoot>
